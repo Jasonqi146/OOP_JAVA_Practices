@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1520863-fefd-46be-bf74-e818e69aeab4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1altGCxY3YRVtpqpNtN2LFrw8CX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1520863-fefd-46be-bf74-e818e69aeab4" name="Default Changelist" comment="" />
+      <created>1587321909491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587321909491</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="101" width="813" height="666" key="#Project_Structure" timestamp="1587321917132">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="320" y="101" width="813" height="666" key="#Project_Structure/0.23.1440.830@0.23.1440.830" timestamp="1587321917132" />
+    <state x="533" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1587324621203">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="533" y="147" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1587324621203" />
+    <state x="374" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1587346407491">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="374" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1587346407491" />
+    <state x="385" y="178" width="670" height="676" key="search.everywhere.popup" timestamp="1587333489034">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="385" y="178" width="670" height="676" key="search.everywhere.popup/0.23.1440.831@0.23.1440.831" timestamp="1587333489034" />
+  </component>
+</project>
